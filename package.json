@@ -22,7 +22,7 @@
     "react-html-parser": "^2.0.2",
     "react-router": "^4.2.0",
     "react-smackdown": "^0.8.8",
-    "react-static": "^7.0.10"
+    "react-static": "^7.5.0"
   },
   "devDependencies": {
     "eslint-config-react": "^1.1.7",
