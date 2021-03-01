@@ -20,7 +20,7 @@
     "react-dom": "^16.5.0",
     "react-hot-loader": "^4.13.0",
     "react-html-parser": "^2.0.2",
-    "react-router": "^4.2.0",
+    "react-router": "^4.3.1",
     "react-smackdown": "^0.8.8",
     "react-static": "^7.0.10"
   },
